@@ -11,7 +11,7 @@ Here the list of repos associated with published articles and reseach documents:
 
 **[Mackerel_NWA_2021](https://github.com/GenomicsMLI-DFO/Mackerel_NWA_2021)**: Bourret A, Smith A, Van Beveren E, Plourde S, Curti K, Jansen T, Richardson DE, Castonguay M, Rodriguez-Ezpeleta N, Parent GJ (accepted). Quantifying genetic differentiation and population assignment among two contingents of Atlantic mackerel (Scomber scombrus) in the Northwest Atlantic. CJFAS.
 
-**[GSL_COI_ref_library](https://github.com/GenomicsMLI-DFO/GSL_COI_ref_library)**: Bourret, A, Nozères C, Parent E, Parent GJ (accepted). Maximizing the reliability and the number of species assignments in metabarcoding studies using a curated regional library and a public repository. MBMG.
+**[GSL_COI_ref_library](https://github.com/GenomicsMLI-DFO/GSL_COI_ref_library)**: Bourret A, Nozères C, Parent E, Parent, GJ (2023). Maximizing the reliability and the number of species assignments in metabarcoding studies using a curated regional library and a public repository. Metabarcoding and Metagenomics 7: 37–49.
 
 **2022**
 
