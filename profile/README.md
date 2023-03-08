@@ -7,7 +7,7 @@ Here the list of repos associated with published articles and reseach documents:
 
 **2023**
 
-**[PANOMICS_Transcripto_manuscript](https://github.com/GenomicsMLI-DFO/PANOMICS_Transcripto_manuscript)**: Leung C, Guscelli E, Chabot D, Bourret A, Calosi P, Parent GJ (accepted). The lack of genetic variation underlying thermal transcriptomic plasticity suggests limited adaptability of the Northern shrimp, *Pandalus borealis*. Front. Ecol. Evol. 11:1125134. doi:10.3389/fevo.2023.1125134.
+**[PANOMICS_Transcripto_manuscript](https://github.com/GenomicsMLI-DFO/PANOMICS_Transcripto_manuscript)**: Leung C, Guscelli E, Chabot D, Bourret A, Calosi P, Parent GJ (2023). The lack of genetic variation underlying thermal transcriptomic plasticity suggests limited adaptability of the Northern shrimp, *Pandalus borealis*. Front. Ecol. Evol. 11:1125134. doi:10.3389/fevo.2023.1125134.
 
 **[Mackerel_NWA_2021](https://github.com/GenomicsMLI-DFO/Mackerel_NWA_2021)**: Bourret A, Smith A, Van Beveren E, Plourde S, Curti K, Jansen T, Richardson DE, Castonguay M, Rodriguez-Ezpeleta N, Parent GJ (accepted). Quantifying genetic differentiation and population assignment among two contingents of Atlantic mackerel (Scomber scombrus) in the Northwest Atlantic. CJFAS.
 
