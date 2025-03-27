@@ -4,6 +4,10 @@ We are a team working in genomics at Maurice Lamontagne Institute (DFO, Quebec r
 
 Here the list of repos associated with published articles and reseach documents:
 
+**2025**
+
+**[Phoca_vitulina_mellonae_eDNA](https://github.com/GenomicsMLI-DFO/eDNA_P_vitulina_mellonae)** Chevrinais M, Côté G, Gingras G, Pratte I, Valentin AE, Voyageur J, Hammill MO, Parent GJ (submitted). Refining the distribution and confirming the phylogenetic relationship of the endangered landlocked harbour seal _Phoca vitulina mellonae_ using environmental DNA. Canadian Journal of Fisheries and Aquatic Science.
+
 **2024**
 
 **[PANOMICS_PopStruc_MS](https://github.com/GenomicsMLI-DFO/PANOMICS_PopStruc_MS)**  Bourret A, Leung C, Puncher GN, Le Corre N, Deslauriers D, Skanes K, Bourdages H, Cassista-Da Ros M, Walkusz W, Jeffery NW, Stanley RRE, Parent GJ (2024). Diving into large-scale population genomics to decipher drivers of structure and climatic vulnerability in a marine invertebrate. Molecular Ecology.
